@@ -1,4 +1,4 @@
-# Columbia_Uni_Graduate
+# Columbia Graduate
 
 **Columbia's Master's in Operations Research**
 
